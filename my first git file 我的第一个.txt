@@ -1,4 +1,0 @@
-Git is a version control system.
-Git is good, but rexchang can't use it!
-
-现在测试中文

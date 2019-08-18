@@ -5,8 +5,8 @@
 -------------------------------------
 
 >>> --- node1 ---- node2---- master
-                              \__________dev
+                                     \________dev
 
 
-orgin ---- node1 --- node2 ---- master
-                                          \_____dev
+dev --- node1 ---- node2---- master
+                                       \_______dev
